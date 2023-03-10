@@ -1,2 +1,2 @@
 # GMM-GLRl1
-run "/Unmixing/Demo.m"
+run "/GMM-GLRl1/Unmixing/Demo.m"
